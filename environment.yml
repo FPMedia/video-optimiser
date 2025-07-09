@@ -3,8 +3,8 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - flask=2.3.3
-  - werkzeug=2.3.7
   - pip
   - pip:
+      - Flask==2.3.3
+      - Werkzeug==2.3.7
       - python-dotenv==1.0.0 
