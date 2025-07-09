@@ -2,6 +2,24 @@
 
 ![Video Optimizer](image.png)
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.3.3-red.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Latest-green.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Werkzeug](https://img.shields.io/badge/Werkzeug-2.3.7-gray.svg?style=for-the-badge&logo=python&logoColor=white)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-1.0.0-lightgray.svg?style=for-the-badge&logo=python&logoColor=black)
+
+### Additional Technologies
+- **H.264 Codec** - Video compression standard
+- **AAC Audio** - Audio compression
+- **UUID** - Unique file identification
+- **Threading** - Background processing
+- **Subprocess** - FFmpeg integration
+
 A modern web application for optimizing video files with lossless compression. Perfect for reducing file sizes while maintaining visual quality.
 
 ## Features
